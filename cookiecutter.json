@@ -1,0 +1,10 @@
+{
+    "full_name": "Daniel Germano Travieso",
+    "email": "daniel@dgtravieso.com",
+    "project_name": "codename",
+    "version": "0.1.0",
+    "python_path": "/home/wsl/.pyenv/versions/3.8.3/bin/python",
+    "description": "A simple project structure with cookiecutter",
+    "licence": "GPL-3.0-or-later"
+
+}
